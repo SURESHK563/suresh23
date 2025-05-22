@@ -1,12 +1,8 @@
 Here's a sample `README.md` content for a **Pacman Game** project. You can customize this based on the language, framework, and additional features used in your specific implementation.
-
----
-
-# 🟡 Pacman Game
+🟡 Pacman Game
 
 A classic Pacman game recreated using \[your technology, e.g., Python and Pygame / JavaScript and HTML5 Canvas]. Control Pacman, eat all the pellets, and avoid the ghosts!
-
-## 🎮 Features
+🎮 Features
 
 * Classic Pacman gameplay
 * Ghost AI with different behaviors
@@ -14,22 +10,21 @@ A classic Pacman game recreated using \[your technology, e.g., Python and Pygame
 * Multiple levels (optional)
 * Sound effects and animations (optional)
 * Pause/Restart functionality
-
-## 🛠️ Technologies Used
+ 🛠️ Technologies Used
 
 * \[Language]: e.g., Python / JavaScript / C++
 * \[Framework/Library]: e.g., Pygame / HTML5 Canvas / Unity
 * \[Other tools]: e.g., VS Code, Git
 
-## 🚀 Getting Started
+ 🚀 Getting Started
 
-### Prerequisites
+ Prerequisites
 
 Make sure you have the following installed:
 
 * \[e.g., Python 3.x / Node.js / C++ Compiler]
 
-### Installation
+ Installation
 
 Clone the repository:
 
@@ -41,24 +36,21 @@ cd pacman-game
 Install dependencies (if applicable):
 
 ```bash
-# For Python
+ For Python
 pip install -r requirements.txt
 
-# For Node.js
+ For Node.js
 npm install
-```
-
-### Run the Game
+ Run the Game
 
 ```bash
-# For Python
+ For Python
 python main.py
 
-# For JavaScript
+ For JavaScript
 open index.html in your browser
 ```
-
-## 🎮 Controls
+ 🎮 Controls
 
 | Action       | Key         |
 | ------------ | ----------- |
@@ -68,12 +60,10 @@ open index.html in your browser
 | Move Right   | D / → Arrow |
 | Pause/Resume | P           |
 | Restart      | R           |
-
-## 📸 Screenshots
+ 📸 Screenshots
 
 *Add screenshots here to show gameplay.*
-
-## 📂 Project Structure
+ 📂 Project Structure
 
 ```text
 pacman-game/
@@ -83,17 +73,13 @@ pacman-game/
 │   └── main.py        # Main entry point
 ├── README.md
 └── requirements.txt   # Dependencies
-```
-
-## 📄 License
+ 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## 🙌 Acknowledgements
+ 🙌 Acknowledgements
 
 * Inspired by the original Pac-Man arcade game by Namco
-* \[Any tutorials, assets, libraries used]
+*[Any tutorials, assets, libraries used]
 
----
 
 Let me know your project setup if you'd like it customized for your specific language, library, or folder structure.
